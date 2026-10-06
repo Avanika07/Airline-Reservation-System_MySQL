@@ -229,7 +229,7 @@ Database relationships
 
 👨‍💻 Author
 
-Mangamuri Sai Sowmya
+Basangi Avanika
 
 If you found this project useful, feel free to ⭐ the repository.
 
